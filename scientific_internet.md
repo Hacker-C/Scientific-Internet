@@ -28,6 +28,7 @@
 
 + 具体使用方法和下载地址点 [这里](https://github.com/getlantern/download)
 + 不太稳定
++ 需要的可以提出 issues 或者私信我
 
 
 > 以下两种方法较为折腾（相对小白而言）
